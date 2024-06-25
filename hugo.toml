@@ -1,9 +1,31 @@
 baseURL = 'https://b3x.dev/'
 languageCode = 'en-us'
-title = "Julien's labs"
-
+title = "b3x.io"
 theme = "triple-hyde"
+
+disqusShortname = "JulienBreux"
+googleAnalytics = "GTM-WZ6687GT"
+
+[params]
+description = "Algorithm, Go, Cloud, Open Source"
+layoutReverse = true
+
+since = 2024
+copyright = 'Julien Breux'
+license = 'CC BY-SA 4.0'
+licenseURL = 'https://creativecommons.org/licenses/by-sa/4.0/'
 
 [params.social]
 github = "JulienBreux"
+gitlab = "JulienBreux"
+bitbucket = "JulienBreux"
+twitter = "JulienBreux"
+linkedin = "JulienBreux"
+keybase = "JulienBreux"
+medium = "JulienBreux"
 gravatar = "julien.breux@gmail.com"
+
+[[menu.main]]
+name = "About"
+identifier = "about"
+url = "/about/"
