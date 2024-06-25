@@ -1,6 +1,6 @@
 baseURL = 'https://b3x.dev/'
 languageCode = 'en-us'
-title = "b3x.io"
+title = "b3x.dev"
 theme = "triple-hyde"
 
 disqusShortname = "JulienBreux"
