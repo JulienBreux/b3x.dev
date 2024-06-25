@@ -8,7 +8,7 @@ googleAnalytics = "GTM-WZ6687GT"
 
 [params]
 description = "Algorithm, Go, Cloud, Open Source"
-layoutReverse = true
+layoutReverse = false
 
 since = 2024
 copyright = 'Julien Breux'
