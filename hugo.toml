@@ -1,6 +1,6 @@
 baseURL = 'https://b3x.dev/'
 languageCode = 'en-us'
-title = "Julien's adventures"
+title = "Julien's labs"
 
 theme = "triple-hyde"
 
