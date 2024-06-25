@@ -1,3 +1,9 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://b3x.dev/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Julien's adventures"
+
+theme = "triple-hyde"
+
+[params.social]
+github = "JulienBreux"
+gravatar = "julien.breux@gmail.com"
