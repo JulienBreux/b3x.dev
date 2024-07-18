@@ -1,5 +1,5 @@
 +++
-title = 'How to print a struct in Go?'
+title = 'Go, how to print a struct?'
 date = 2024-06-25T22:33:05+02:00
 draft = false
 tags = ['struct', 'print']
