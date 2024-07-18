@@ -12,7 +12,7 @@ description = "Algorithm, Go, Cloud, Open Source"
 layoutReverse = false
 
 [params.utterances]
-repo = "JulienBreux/b3x.io"
+repo = "JulienBreux/b3x.dev"
 
 since = 2024
 copyright = 'Julien Breux'
